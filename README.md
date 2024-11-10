@@ -27,10 +27,3 @@ This project utilizes MATLAB scripts to perform emotion detection based on facia
 
 For more details on the methodology, refer to the PDF document titled `Emotion Recognition by Facial Expression.pdf` included in the repository.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Feel free to customize the README with additional information about the dataset used, any preprocessing steps, and specific instructions for running each script.
